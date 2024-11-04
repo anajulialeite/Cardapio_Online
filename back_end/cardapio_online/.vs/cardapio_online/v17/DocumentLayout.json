@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|c:\\users\\master\\documents\\estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|solutionrelative:cardapio_online\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|c:\\users\\master\\documents\\estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|solutionrelative:cardapio_online\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|c:\\users\\master\\documents\\estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|solutionrelative:cardapio_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|c:\\users\\master\\documents\\estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|solutionrelative:cardapio_online\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|c:\\users\\master\\documents\\estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\models\\lanchonetecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|solutionrelative:cardapio_online\\models\\lanchonetecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|c:\\users\\master\\documents\\estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\tb_cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503C740-9401-4293-939D-CEEF106B5BBD}|cardapio_online\\cardapio_online.csproj|solutionrelative:cardapio_online\\tb_cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardapioController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Controllers\\CardapioController.cs",
+              "RelativeDocumentMoniker": "cardapio_online\\Controllers\\CardapioController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Controllers\\CardapioController.cs",
+              "RelativeToolTip": "cardapio_online\\Controllers\\CardapioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:43:35.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "cardapio_online\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "cardapio_online\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:40:24.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Program.cs",
+              "RelativeDocumentMoniker": "cardapio_online\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Program.cs",
+              "RelativeToolTip": "cardapio_online\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:26:51.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\appsettings.json",
+              "RelativeDocumentMoniker": "cardapio_online\\appsettings.json",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\appsettings.json",
+              "RelativeToolTip": "cardapio_online\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T17:16:38.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanchoneteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Models\\LanchoneteContext.cs",
+              "RelativeDocumentMoniker": "cardapio_online\\Models\\LanchoneteContext.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\Models\\LanchoneteContext.cs",
+              "RelativeToolTip": "cardapio_online\\Models\\LanchoneteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:14:25.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TB_Cardapio.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\TB_Cardapio.cs",
+              "RelativeDocumentMoniker": "cardapio_online\\TB_Cardapio.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\back_end\\cardapio_online\\cardapio_online\\TB_Cardapio.cs",
+              "RelativeToolTip": "cardapio_online\\TB_Cardapio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:03:44.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
