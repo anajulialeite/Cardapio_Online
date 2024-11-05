@@ -12,3 +12,7 @@ Este é o meu novo site desenvolvido com <strong>React</strong> para a interface
 Link oficial da documentação do React: https://pt-br.legacy.reactjs.org/docs/getting-started.html
 
 Link do meu projeto: http://localhost:3000/
+
+# license
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
