@@ -1,14 +1,20 @@
+
 using cardapio_online.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Adicione o contexto de banco de dados
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// Adiciona o contexto ao contêiner de injeção de dependência, carregando a string de conexão do appsettings.json
 builder.Services.AddDbContext<LanchoneteContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("LanchoneteConnection")));
 
-// Adicione serviços ao contêiner.
-builder.Services.AddControllers();
 
 var app = builder.Build();
 
@@ -18,15 +24,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-else
-{
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
-}
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
-app.UseRouting();
+
 app.UseAuthorization();
+
 app.MapControllers();
+
 app.Run();
