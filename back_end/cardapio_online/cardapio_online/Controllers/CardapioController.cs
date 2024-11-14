@@ -42,18 +42,38 @@ namespace cardapio_online
         [HttpPost("PostCardapio")]
         public async Task<IActionResult> PostCardapio(TB_Cardapio cardapio)
         {
+            // Validação: Verificar se o campo 'Produto' não foi preenchido
+            if (string.IsNullOrEmpty(cardapio.Produto))
+            {
+                // Mensagem de erro informando que o nome do prato não foi preenchido
+                string mensagem = string.Format("Campo nome do prato não foi preenchido: {0} \r\n", cardapio.Produto);
+
+                // Retorna 200 OK com a mensagem de erro (não é 400 BadRequest porque o erro não é crítico)
+                BadRequest("mensagem");
+            }
+
+            // Se o nome do prato foi preenchido corretamente, continua o processo normal de adição
             _context.Cardapios.Add(cardapio);
-            var retorno = await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
 
-            return Ok();
+            return Ok("Produto adicionado com sucesso!");
 
-            //return CreatedAtAction("GetCardapio", new { id = cardapio.IdCardapio }, cardapio);
         }
 
         // PUT: api/cardapio/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCardapio(int id, TB_Cardapio cardapio)
         {
+            // Validação: Verificar se o campo 'Produto' não foi preenchido
+            if (string.IsNullOrEmpty(cardapio.Produto))
+            {
+                // Mensagem de erro informando que o nome do prato não foi preenchido
+                string mensagem = string.Format("Campo nome do prato não foi preenchido: {0} \r\n", cardapio.Produto);
+
+                // Retorna 200 OK com a mensagem de erro (não é 400 BadRequest porque o erro não é crítico)
+                BadRequest("mensagem");
+            }
+
             if (id != cardapio.IdCardapio)
             {
                 return BadRequest();
@@ -77,7 +97,7 @@ namespace cardapio_online
                 }
             }
 
-            return NoContent();
+            return NoContent(); // Retorna 204 NoContent após a atualização bem-sucedida
         }
 
         // DELETE: api/cardapio/5
