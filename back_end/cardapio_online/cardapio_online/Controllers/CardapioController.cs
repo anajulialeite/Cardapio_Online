@@ -89,7 +89,7 @@ namespace cardapio_online
             {
                 if (!CardapioExists(id))
                 {
-                    return NotFound();
+                    return NotFound("Produto não localizado");
                 }
                 else
                 {
@@ -107,7 +107,7 @@ namespace cardapio_online
             var cardapio = await _context.Cardapios.FindAsync(id);
             if (cardapio == null)
             {
-                return NotFound();
+                return NotFound("Produto não localizado");
             }
 
             _context.Cardapios.Remove(cardapio);
