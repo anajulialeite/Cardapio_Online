@@ -8,3 +8,7 @@ Accept: application/json
 DELETE {{cardapio_online_HostAddress}}/api/cardapio/0
 
 ###
+
+DELETE {{cardapio_online_HostAddress}}/api/cardapio/0
+
+###
