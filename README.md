@@ -11,6 +11,10 @@ Este é o meu novo site desenvolvido com <strong>React</strong> para a interface
 
 Link oficial da documentação do React: https://pt-br.legacy.reactjs.org/docs/getting-started.html
 
+Documentação do .Net https://learn.microsoft.com/pt-br/dotnet/fundamentals/
+
+Documentação do SDK https://learn.microsoft.com/pt-br/dotnet/core/sdk
+
 # license
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
