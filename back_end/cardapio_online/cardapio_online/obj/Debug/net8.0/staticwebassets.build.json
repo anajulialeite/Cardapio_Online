@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "USuofznyCQ2yOuo5Ow+YGVsfalcrLwlos8QvZcdWfr0=",
+  "Hash": "yAGUTuOR9kA+VTSxDpcnSU7TggvwjwcEb7rqALvGSxM=",
   "Source": "cardapio_online",
   "BasePath": "_content/cardapio_online",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
