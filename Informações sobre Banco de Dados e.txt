@@ -1,0 +1,30 @@
+Informações sobre Banco de Dados e os Relacionamentos:
+
+1. Relacionamento 1:1 (Um para Um)
+	•	Quando usar:
+	•	Quando cada registro de uma tabela está associado a exatamente um registro em outra tabela, e vice-versa.
+	•	Exemplo: Usuário e Perfil (um usuário tem apenas um perfil e um perfil pertence a apenas um usuário).
+	•	Como identificar:
+	•	Se o vínculo entre duas tabelas é exclusivo e não pode se repetir.
+	•	Use uma chave estrangeira com restrição UNIQUE na tabela secundária.
+
+2. Relacionamento 1:N (Um para Muitos)
+	•	Quando usar:
+	•	Quando um registro de uma tabela pode estar associado a múltiplos registros em outra tabela.
+	•	Exemplo: Categoria e Itens (uma categoria pode ter muitos itens, mas cada item pertence a apenas uma categoria).
+	•	Como identificar:
+	•	Se a relação entre as tabelas é hierárquica, com uma entidade principal e várias dependentes.
+	•	Use uma chave estrangeira sem restrição UNIQUE na tabela secundária.
+
+3. Relacionamento N:M (Muitos para Muitos)
+	•	Quando usar:
+	•	Quando múltiplos registros de uma tabela podem estar associados a múltiplos registros de outra tabela.
+	•	Exemplo: Estudantes e Cursos (um estudante pode estar matriculado em vários cursos, e um curso pode ter vários estudantes).
+	•	Como identificar:
+	•	Se as duas tabelas precisam compartilhar uma relação bidirecional sem hierarquia direta.
+	•	Use uma tabela intermediária contendo chaves estrangeiras de ambas as tabelas.
+
+Resumindo:
+	1.	1:1: Exclusivo – Cada entidade em uma tabela tem uma única entidade correspondente na outra.
+	2.	1:N: Hierárquico – Uma entidade pode ter múltiplas dependentes.
+	3.	N:M: Compartilhado – Muitas entidades podem se associar a muitas outras, usando uma tabela intermediária.
