@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj",
+        "projectName": "BackEnd",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\obj\\",
+=======
     "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\obj\\",
+>>>>>>> 8f3c559eb5a3bc3496a4e9202b521b9330941aea
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
