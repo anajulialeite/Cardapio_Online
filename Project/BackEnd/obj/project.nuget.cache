@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvDnmK+Uqp4=",
+  "dgSpecHash": "oFoIjrPQDUw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Library\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Master\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
   ],
