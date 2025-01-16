@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W628x4HSx68=",
+  "dgSpecHash": "NlBb+8iw89Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Master\\Documents\\Estudos\\cardapio_online\\Library\\BackEnd\\BackEnd.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Master\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Library\\BackEnd\\BackEnd.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
