@@ -2,5 +2,7 @@
 {
     public class CardContext
     {
+        public CardContext (){
+            }
     }
 }
