@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cardapio_online")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd407fb3456a933515d8475ecbd5fb8234002f2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fe816e3404620dc40b0fdb9f724c8b360fc89e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("cardapio_online")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cardapio_online")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
