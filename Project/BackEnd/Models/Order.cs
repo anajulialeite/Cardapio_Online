@@ -16,5 +16,7 @@
             preparation,
             completed
         }
+
+        public virtual ICollection<Item> IdItems { get; set; } = new List<Item>();
     }
 }

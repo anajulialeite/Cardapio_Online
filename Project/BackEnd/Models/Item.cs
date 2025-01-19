@@ -11,5 +11,9 @@
         public decimal Price { get; set; }
 
         public string Image { get; set; } = string.Empty;
+
+        public virtual Category? IdCategoryNavigation { get; set; }
+
+        public virtual ICollection<Order> IdOrders { get; set; } = new List<Order>();
     }
 }
