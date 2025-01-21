@@ -17,6 +17,10 @@
             completed
         }
 
-        public virtual ICollection<Item> IdItems { get; set; } = new List<Item>();
+        public int UserID { get; set; }
+
+        public User User { get; set; } = new User();
+
+        public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
     }
 }

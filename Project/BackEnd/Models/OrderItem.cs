@@ -13,5 +13,7 @@
         public double FreightSubtotal { get; set; }
 
         public double Amount { get; set; }
+
+
     }
 }

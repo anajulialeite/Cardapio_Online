@@ -12,8 +12,12 @@
 
         public string Image { get; set; } = string.Empty;
 
-        public virtual Category? IdCategoryNavigation { get; set; }
+        public int CategoryID { get; set; }
+
+        public Category category { get; set; } = new Category();
 
         public virtual ICollection<Order> IdOrders { get; set; } = new List<Order>();
+
+        public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
     }
 }

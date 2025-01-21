@@ -42,15 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -62,8 +58,7 @@
               "RelativeToolTip": "cardapio_online\\cardapio_online.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-16T23:34:37.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.759Z"
             },
             {
               "$type": "Document",
@@ -75,8 +70,7 @@
               "RelativeToolTip": "cardapio_online\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:34:37.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.824Z"
             },
             {
               "$type": "Document",
@@ -88,8 +82,7 @@
               "RelativeToolTip": "cardapio_online\\Models\\LanchoneteContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:34:37.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.827Z"
             },
             {
               "$type": "Document",
@@ -101,8 +94,7 @@
               "RelativeToolTip": "cardapio_online\\Models\\TB_Cardapio.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAABRwA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:34:37.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.829Z"
             },
             {
               "$type": "Document",
@@ -114,8 +106,7 @@
               "RelativeToolTip": "cardapio_online\\Controllers\\CardapioController.cs",
               "ViewState": "AgIAAHoAAAAAAAAAAABBwHEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:34:37.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.832Z"
             },
             {
               "$type": "Document",
@@ -140,8 +131,7 @@
               "RelativeToolTip": "cardapio_online\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:34:37.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.839Z"
             },
             {
               "$type": "Document",
@@ -153,8 +143,7 @@
               "RelativeToolTip": "cardapio_online\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:34:37.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:34:37.842Z"
             }
           ]
         }
