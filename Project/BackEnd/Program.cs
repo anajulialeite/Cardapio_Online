@@ -12,7 +12,7 @@ namespace BackEnd
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnectionString");
+            var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
             builder.Services.AddDbContext<MenuContext>(options => options.UseSqlServer(ConnectionString));
 

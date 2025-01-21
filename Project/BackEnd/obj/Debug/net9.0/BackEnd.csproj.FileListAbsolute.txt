@@ -329,4 +329,3 @@ C:\Users\Master\Desktop\Cardapio_Online\Project\BackEnd\bin\Debug\net9.0\runtime
 C:\Users\Master\Desktop\Cardapio_Online\Project\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Master\Desktop\Cardapio_Online\Project\BackEnd\obj\Debug\net9.0\BackEnd.csproj.AssemblyReference.cache
 C:\Users\Master\Desktop\Cardapio_Online\Project\BackEnd\obj\Debug\net9.0\BackEnd.csproj.Up2Date
-C:\Users\Master\Desktop\Cardapio_Online\Project\BackEnd\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

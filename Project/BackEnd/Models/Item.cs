@@ -16,7 +16,7 @@
 
         public Category category { get; set; } = new Category();
 
-        public virtual ICollection<Order> IdOrders { get; set; } = new List<Order>();
+        public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
 
         public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
     }
