@@ -17,24 +17,38 @@ namespace BackEnd.Data
         {
             //Fluent API
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Order>()
+
+            .HasKey(o => o.Id);
+
+            modelBuilder.Entity<Category>()
+
+            .HasKey(c => c.Id);
+
+            modelBuilder.Entity<User>()
+
+            .HasKey(u => u.Id);
+
+            modelBuilder.Entity<Item>()
+
+            .HasKey(i => i.Id);
 
             modelBuilder.Entity<User>().ToTable("Users");
             modelBuilder.Entity<Order>().ToTable("Orders");
             modelBuilder.Entity<Item>().ToTable("Items");
             modelBuilder.Entity<Category>().ToTable("Categories");
             modelBuilder.Entity<OrderItem>().ToTable("OrderItems");
+            
             modelBuilder.Entity<Order>()
-
             .HasOne(o => o.User)
             .WithMany(u => u.Orders)
-            .HasForeignKey(o => o.UserID)
-            .OnDelete(DeleteBehavior.Restrict); // Evitar exclusões em cascata
+            .HasForeignKey(o => o.UserID);
 
             modelBuilder.Entity<Item>()
                 .HasOne(i => i.category)
                 .WithMany(c => c.Items)
-                .HasForeignKey(i => i.CategoryID)
-                .OnDelete(DeleteBehavior.Restrict);
+                .HasForeignKey(i => i.CategoryID);
+                
 
             modelBuilder.Entity<OrderItem>()
     //Relacionando OrderItem com Order
@@ -43,14 +57,14 @@ namespace BackEnd.Data
             modelBuilder.Entity<OrderItem>()
                 .HasOne(oi => oi.Order)
                 .WithMany(o => o.OrderItems)
-                .HasForeignKey(oi => oi.OrderID)
-                .OnDelete(DeleteBehavior.Restrict);
+                .HasForeignKey(oi => oi.OrderID);
+
 
             modelBuilder.Entity<OrderItem>()
                 .HasOne(oi => oi.Item)
                 .WithMany(i => i.OrderItems)
-                .HasForeignKey(oi => oi.ItemID)
-                .OnDelete(DeleteBehavior.Restrict);
+                .HasForeignKey(oi => oi.ItemID);
+                
 
         }
 

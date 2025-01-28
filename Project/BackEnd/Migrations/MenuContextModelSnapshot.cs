@@ -162,7 +162,7 @@ namespace BackEnd.Migrations
                     b.HasOne("BackEnd.Models.Category", "category")
                         .WithMany("Items")
                         .HasForeignKey("CategoryID")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("category");
@@ -177,7 +177,7 @@ namespace BackEnd.Migrations
                     b.HasOne("BackEnd.Models.User", "User")
                         .WithMany("Orders")
                         .HasForeignKey("UserID")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("User");
@@ -188,13 +188,13 @@ namespace BackEnd.Migrations
                     b.HasOne("BackEnd.Models.Item", "Item")
                         .WithMany("OrderItems")
                         .HasForeignKey("ItemID")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("BackEnd.Models.Order", "Order")
                         .WithMany("OrderItems")
                         .HasForeignKey("OrderID")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Item");
