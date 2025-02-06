@@ -1131,3 +1131,11 @@ C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\
 C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\obj\Debug\net9.0\BackEnd.pdb
 C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\obj\Debug\net9.0\BackEnd.genruntimeconfig.cache
 C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\obj\Debug\net9.0\ref\BackEnd.dll
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\Aplication.dll
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\Domain.dll
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\Infrastruture.dll
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\References.dll
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\Aplication.pdb
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\Infrastruture.pdb
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\References.pdb
+C:\Users\paulo\OneDrive\Desktop\Cardapio_Online\Project\BackEnd\Web.BackEnd\Web\bin\Debug\net9.0\Domain.pdb
