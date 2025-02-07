@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hOXuygVtsbU=",
+  "dgSpecHash": "BBuxk5nOHn0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
@@ -59,8 +59,7 @@
     "C:\\Users\\Master\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Master\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Master\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
+    "C:\\Users\\Master\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

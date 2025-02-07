@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QUthyGCgIy8=",
+  "dgSpecHash": "5J2buBSw5AM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\web.backend\\web\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Master\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -160,8 +160,7 @@
     "C:\\Users\\Master\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512",
-    "C:\\Users\\Master\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Master\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
+    "C:\\Users\\Master\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
