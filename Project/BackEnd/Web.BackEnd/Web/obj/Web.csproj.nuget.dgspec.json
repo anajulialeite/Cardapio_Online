@@ -1,27 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD:Project/BackEnd/Web.BackEnd/Web/obj/Web.csproj.nuget.dgspec.json
     "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\Web.csproj": {}
-=======
-    "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\BackEnd.csproj": {}
->>>>>>> df487791c6100da2f18584700ced2ab177f7c103:Project/BackEnd/Web.BackEnd/Web/obj/BackEnd.csproj.nuget.dgspec.json
   },
   "projects": {
-    "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj",
-        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\obj\\",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -37,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
               }
             }
           }
@@ -54,8 +50,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -71,12 +68,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -86,20 +77,20 @@
         }
       }
     },
-    "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -115,8 +106,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
               }
             }
           }
@@ -129,8 +120,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -146,12 +138,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -161,20 +147,20 @@
         }
       }
     },
-    "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj",
         "projectName": "Infrastruture",
-        "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj",
-        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\obj\\",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -190,11 +176,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Domain.Backend\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
               }
             }
           }
@@ -207,8 +193,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -232,12 +219,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -247,20 +228,20 @@
         }
       }
     },
-    "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj",
         "projectName": "References",
-        "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj",
-        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\obj\\",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -286,8 +267,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -333,12 +315,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -348,7 +324,6 @@
         }
       }
     },
-<<<<<<< HEAD:Project/BackEnd/Web.BackEnd/Web/obj/Web.csproj.nuget.dgspec.json
     "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -357,22 +332,12 @@
         "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\obj\\",
-=======
-    "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\BackEnd.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\BackEnd.csproj",
-        "projectName": "BackEnd",
-        "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\BackEnd.csproj",
-        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Web.BackEnd\\Web\\obj\\",
->>>>>>> df487791c6100da2f18584700ced2ab177f7c103:Project/BackEnd/Web.BackEnd/Web/obj/BackEnd.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -388,14 +353,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Application.BackEnd\\Aplication\\Aplication.csproj"
               },
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\Infractruture.BackEnd\\Infrastruture\\Infrastruture.csproj"
               },
-              "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
-                "projectPath": "C:\\Users\\Master\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Cardapio_Online\\Project\\BackEnd\\References.BackEnd\\References\\References.csproj"
               }
             }
           }
@@ -408,8 +373,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -425,12 +391,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

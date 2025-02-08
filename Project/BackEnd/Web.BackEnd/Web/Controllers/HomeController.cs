@@ -1,11 +1,10 @@
 using System.Diagnostics;
-<<<<<<< HEAD
-=======
+
 using Domain.Entities;
 using Microsoft.AspNetCore.Authorization;
->>>>>>> df487791c6100da2f18584700ced2ab177f7c103
+
 using Microsoft.AspNetCore.Mvc;
-using Web.Models;
+
 
 namespace Web.Controllers
 {
